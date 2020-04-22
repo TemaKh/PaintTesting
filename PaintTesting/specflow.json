@@ -1,0 +1,15 @@
+﻿{
+  "bindingCulture": {
+    "language": "en-us"
+  },
+  "language": {
+    "feature": "en-us"
+  },
+  "stepAssemblies": [
+    { "assembly": "PaintTesting" }
+  ],
+  "runtime": {
+    "stopAtFirstError": true,
+    "missingOrPendingStepsOutcome": "Error"
+  }
+}
