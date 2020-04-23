@@ -6,7 +6,8 @@
     "feature": "en-us"
   },
   "stepAssemblies": [
-    { "assembly": "PaintTesting" }
+    { "assembly": "PaintTesting" },
+    { "assembly": "FrameworkWhite" }
   ],
   "runtime": {
     "stopAtFirstError": true,
